@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Wbv.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "zip \"G:\\\\My Drive\\\\roubo\\\\WhatsApp Chat - César Síndico.zip\""
+    }
+  }
+}
